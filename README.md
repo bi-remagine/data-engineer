@@ -2,7 +2,7 @@
 
 ### Instruction
 
-- Push the solution to your public Github repository and send the link of the repo to kay@getconsciousgrowth.com
+- Push the solution to your public Github repository and send the link of the repo to kay.kim@remagine.io
 
 ### Source to use
 
